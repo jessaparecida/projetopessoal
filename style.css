@@ -1,2 +1,167 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@400;500;600;700&family=Cormorant+Garamond:ital@0;1&family=Raleway:ital,wght@0,200;0,400;0,600;0,700;1,200;1,400;1,600&display=swap');
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />);
+.navbar {
+    position:fixed; 
+    overflow: hidden;
+    background-color: #F0E8B8;
+    top: 0; 
+    width: 100%; 
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: rgb(56, 40, 73);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .navbar a:hover {
+    background:rgb(56, 40, 73);
+    color: black;
+  }
+  body{
+    background-color: #F0E8B8; 
+   
+  }
+  *{
+    margin:0;
+    padding:0;
+  }
+  #inicio{
+    margin-top: 60px;
+    text-align: center;
+    position: relative; 
+    background-color: rgb(56, 40, 73);
+  }
+  #sobre{
+    margin-top: 200px;
+    text-align: center;
+    position: relative;
+  }
+  #formação{
+    margin-top: 200px;
+    text-align: center;
+    position: relative;
+  }
+  #curiosidades{
+    margin-top: 200px;
+    text-align: center; 
+    position: relative;
+  }
+  #contato{
+    margin-top: 200px;
+    text-align: center;
+    position: relative;
+  }
+  .sobre-header{
+    margin-top: 100px;
+    height: 100px;
+   color:rgb(56, 40, 73);
+    text-align: center;
+    position: relative;
+    font-family: "Cormorant Garamond"; 
+  }
+  .formação-header{
+    margin-top: 60px;
+    height: 100px;
+    color:rgb(56, 40, 73);
+    text-align: center;
+    position: relative;
+    font-family: "Cormorant Garamond"; 
+   }
+  .curiosidades-header{
+    margin-top: 60px;
+    height: 100px;
+   color:rgb(56, 40, 73);
+   text-align: center;
+    position: relative;
+    font-family: "Cormorant Garamond"; 
+  }
+  .inicio-text{
+    margin: auto;
+    width: 15%;
+    display: flex;
+    color:rgb(56, 40, 73);
+    text-align: center;
+    font-family: "Cormorant Garamond"; 
+    font-style: italic;
+  }
+  .sobre-text{
+    width: 54%;
+    margin: auto;
+    color:black;
+    text-align: justify;
+    word-break: keep-all;
+    position: relative;
+  }
+  .formação-text{
+    width: 54%;
+    margin: auto;
+    color:black;
+    text-align: justify;
+    position: relative;
+    word-break: keep-all;
+  }
+  .curiosidades-text{
+    width: 54%;
+    margin: auto;
+    color:black;
+    text-align: start;
+    position: relative;
+    word-break: keep-all;
+  }
+  .inicio-img {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(56, 40, 73);
+  }
+  footer{
+    overflow: hidden;
+    background-color:rgb(56, 40, 73);
+    width: 100%;
+    margin-top: auto;
+    height: auto;
+  }
+  #contato{
+    width: 100%;
+    background-color: rgb(56, 40, 73);
+    color: #F0E8B8;
+  }
+  footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  footer p{
+    text-align: center;
+    color:  #F0E8B8;
+  }
+  .social-media a{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #F0E8B8;
+    margin: 20px 10 px;
+    border-radius: 50%
+  }
+  .social-media i{
+    color: rgb(56, 40, 73);
+    font-size: 30px; 
+  }
+  .social-media a:hover{
+    background-color: rgb(56, 40, 73);
+    box-shadow:2px 2px 12px rgba(0, 0, 0, 2);
+    transition: all ease 0.5s;
+  }
+  
+  .social-media{
+    display: flex;
+  }
+
+ 
