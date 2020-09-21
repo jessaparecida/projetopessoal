@@ -80,7 +80,7 @@
   }
   .inicio-text{
     margin: auto;
-    width: 12%;
+    width: 11%;
     display: flex;
     color:rgb(56, 40, 73);
     text-align: center;
@@ -148,7 +148,7 @@
     justify-content: center;
     align-items: center;
     background-color:  #F0E8B8;
-    margin: 20px 10 px;
+    margin: 20px 10px;
     border-radius: 50%
   }
   .social-media i{
