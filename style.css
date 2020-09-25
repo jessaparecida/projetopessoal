@@ -37,7 +37,7 @@
     text-align: center;
     position: relative;
   }
-  #formação{
+  #formacao{
     margin-top: 200px;
     text-align: center;
     position: relative;
@@ -60,7 +60,7 @@
     position: relative;
     font-family: "Cormorant Garamond"; 
   }
-  .formação-header{
+  .formacao-header{
     margin-top: 60px;
     height: 100px;
     color:rgb(56, 40, 73);
@@ -93,7 +93,7 @@
     word-break: keep-all;
     position: relative;
   }
-  .formação-text{
+  .formacao-text{
     width: 54%;
     margin: auto;
     color:black;
