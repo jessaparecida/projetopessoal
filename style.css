@@ -2,6 +2,7 @@
 .navbar {
     position:relative; 
     overflow: hidden;
+    position: fixed;
     background-color: #F0E8B8;
     top: 0; 
     width: 100%; 
@@ -13,6 +14,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    background-color: #F0E8B8;
   }
   .navbar a:hover {
     background:rgb(56, 40, 73);
