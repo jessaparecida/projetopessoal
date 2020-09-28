@@ -84,7 +84,9 @@ header{
     font-style: italic;
   }
   .card{
-    margin:60px 600px 60px 600px;
+    margin:auto;
+    width: 600px;
+    height: auto;
     position: relative;
     align-items: center;
     background-color: rgb(56, 40, 73);
