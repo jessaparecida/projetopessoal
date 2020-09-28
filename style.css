@@ -1,10 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@400;500;600;700&family=Cormorant+Garamond:ital@0;1&family=Raleway:ital,wght@0,200;0,400;0,600;0,700;1,200;1,400;1,600&display=swap');
+header{
+    top: 0; 
+    width:auto;
+    background-color: #F0E8B8; 
+    color:rgb(56, 40, 73);
+}
+.logo{
+     width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .navbar {
     position:relative; 
     overflow: hidden;
     position: fixed;
     background-color: #F0E8B8;
-    top: 0; 
+    top: auto; 
     width: 100%; 
 }
 .navbar a {
