@@ -11,9 +11,8 @@ header{
 .navbar {
     position:relative; 
     overflow: hidden;
-    position: fixed;
+    position: relative;
     background-color:  rgb(56, 40, 73);
-    top: auto; 
     width: 100%; 
 }
 .navbar a {
@@ -66,27 +65,11 @@ header{
     text-align: center;
     position: relative;
   }
-  .sobre-header{
+  .text-header{
     margin-top: 100px;
-    height: 100px;
-   color:rgb(56, 40, 73);
+    height: 60px;
+   color:#F0E8B8;
     text-align: center;
-    position: relative;
-    font-family: "Cormorant Garamond"; 
-  }
-  .formacao-header{
-    margin-top: 60px;
-    height: 100px;
-    color:rgb(56, 40, 73);
-    text-align: center;
-    position: relative;
-    font-family: "Cormorant Garamond"; 
-   }
-  .curiosidades-header{
-    margin-top: 60px;
-    height: 100px;
-   color:rgb(56, 40, 73);
-   text-align: center;
     position: relative;
     font-family: "Cormorant Garamond"; 
   }
@@ -100,10 +83,18 @@ header{
     font-family: "Cormorant Garamond"; 
     font-style: italic;
   }
+  .card{
+    margin:60px 600px 60px 600px;
+    position: relative;
+    align-items: center;
+    background-color: rgb(56, 40, 73);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px;
+  }
   .sobre-text{
     width: 54%;
     margin: auto;
-    color:black;
+    color:white;
     text-align: justify;
     word-break: keep-all;
     position: relative;
@@ -111,7 +102,7 @@ header{
   .formacao-text{
     width: 54%;
     margin: auto;
-    color:black;
+    color:white;
     text-align: justify;
     position: relative;
     word-break: keep-all;
@@ -119,7 +110,7 @@ header{
   .curiosidades-text{
     width: 54%;
     margin: auto;
-    color:black;
+    color:white;
     text-align: start;
     position: relative;
     word-break: keep-all;
