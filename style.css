@@ -9,7 +9,7 @@ header{
 }
 
 .navbar {
-    margin-top:100px;
+    margin-top:10px;
     position:relative; 
     overflow: hidden;
     position: relative;
@@ -87,7 +87,7 @@ header{
   .card{
     margin:auto;
     display: flex;
-    whidth:600px;
+    whidth:300px;
     height:600px;
     flex-direction: column;
     justify-content: center;
