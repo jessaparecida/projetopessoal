@@ -67,7 +67,7 @@ header{
     position: relative;
   }
   .text-header{
-    margin: 10px;
+    margin-right: 10px;
     height: 60px;
     color:#F0E8B8;
     text-align: center;
