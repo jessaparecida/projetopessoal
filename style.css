@@ -68,7 +68,7 @@ header{
   .text-header{
     margin-top: 100px;
     height: 60px;
-   color:#F0E8B8;
+    color:#F0E8B8;
     text-align: center;
     position: relative;
     font-family: "Cormorant Garamond"; 
@@ -84,7 +84,7 @@ header{
     font-style: italic;
   }
   .card{
-    margin:auto;
+    margin:60px 100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -97,15 +97,15 @@ header{
   .sobre-text{
     margin: auto;
     width: 300px;
-    height:auto
-    color:white;
+    height:auto;
     text-align: justify;
     position: relative;
+      color:white;
   }
   .formacao-text{
      margin: auto;
     width: 300px;
-    height:auto
+    height:auto;
     color:white;
     text-align: justify;
     position: relative;
@@ -113,7 +113,7 @@ header{
   .curiosidades-text{
      margin: auto;
     width: 300px;
-    height:auto
+    height:auto;
     color:white;
     text-align: start;
     position: relative;
