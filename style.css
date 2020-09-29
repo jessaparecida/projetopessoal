@@ -94,7 +94,7 @@ header{
     border-radius: 5px;
   }
   .sobre-text{
-    width: 54%;
+    width: 600px;
     margin: auto;
     color:white;
     text-align: justify;
@@ -102,7 +102,7 @@ header{
     position: relative;
   }
   .formacao-text{
-    width: 54%;
+    width: 600px;
     margin: auto;
     color:white;
     text-align: justify;
@@ -110,7 +110,7 @@ header{
     word-break: keep-all;
   }
   .curiosidades-text{
-    width: 54%;
+    width: 600px;
     margin: auto;
     color:white;
     text-align: start;
