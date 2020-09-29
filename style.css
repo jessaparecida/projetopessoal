@@ -75,7 +75,7 @@ header{
   }
   .inicio-text{
     margin: auto;
-    width: 200px;
+    width: 300px;
     height: 60px;
     display: flex;
     color:rgb(56, 40, 73);
@@ -94,28 +94,28 @@ header{
     border-radius: 5px;
   }
   .sobre-text{
-    width: 600px;
     margin: auto;
+    width: 300px;
+    height:auto
     color:white;
     text-align: justify;
-    word-break: keep-all;
     position: relative;
   }
   .formacao-text{
-    width: 600px;
-    margin: auto;
+     margin: auto;
+    width: 300px;
+    height:auto
     color:white;
     text-align: justify;
     position: relative;
-    word-break: keep-all;
   }
   .curiosidades-text{
-    width: 600px;
-    margin: auto;
+     margin: auto;
+    width: 300px;
+    height:auto
     color:white;
     text-align: start;
     position: relative;
-    word-break: keep-all;
   }
   .inicio-img {
     width: auto;
